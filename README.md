@@ -1,6 +1,6 @@
 # Maxon Motor Setup
 
-### Maxon Motor Current Consumption @ 24V
+### EC 45 Flat (251601) Maxon Motor Current Consumption @ 24V
 
 0RPM = 30mA
 
@@ -24,7 +24,7 @@
 
 10,000RPM = 230mA (with 260mA surge when accelerating)
 
-### Encoder Current Consumption @ 5V
+### Encoder (462004) Current Consumption @ 5V
 
 0RPM 8mA
 
