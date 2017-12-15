@@ -104,7 +104,7 @@ If you have all wiring done, you can click auto-tuning.
 
 If auto-tuning fails, make sure you put in valid parameters in the startup wizard.
 
-If that still failes, I have included my parameter file which you can load to the controller by clicking the orange arrow in ESCON Studio "download parameters". This should work. You still have the ability to configure max speed, pwm control, etc.
+If that still fails, I have a parameter file which you can load to the controller by clicking the orange arrow in ESCON Studio "download parameters". You will still have the ability to configure max speed, pwm control, etc.
 
 Power +Vcc with 24V. Make sure hall sensor and encoder gets +5V. +5V for hall sensor comes from the controller. I fed the encoder +5V from the arduino since the breadboard rail from controller +5V only leaves enough room for one wire. You can figure a way to share the controllers 5V though, like soldering three wires together in a Y shape.
 Make sure Arduino ground is connected to the ground of the controller, or digital inputs may not work.
